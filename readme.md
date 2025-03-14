@@ -1,7 +1,7 @@
-Score Grading App
+#Score Grading App
 The Score Grading App is a simple tool designed to help educators, teachers, and administrators grade student scores. The app allows users to input raw student scores, and it will automatically calculate grades based on predefined grading criteria. It supports various grading scales and provides an easy-to-use interface to manage student data.
 
-Features
+#Features
 Automatic Grade Calculation: Input raw scores, and the app will calculate grades based on your specified scale.
 Customizable Grading Scale: Users can define their own grading scale, including letter grades and percentage ranges.
 Student Data Management: Store student names and their corresponding scores.
@@ -55,8 +55,8 @@ Export Grades:
 Optionally, you can export the student data and grades to a CSV file by clicking the "Export" button.
 Example Grading Scale
 Grade	Percentage Range
-A	90-100%
-B	80-89%
-C	70-79%
-D	60-69%
-F	Below 60%
+80 - 100% = Excellent
+60 - 79% = Very good
+40 - 69% = Good
+Below 40 = Fair
+Above 100 = Score cant be above 100
